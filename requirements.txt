@@ -3,4 +3,3 @@ scipy
 matplotlib
 sympy
 pandas
-git+git://github.com/mkrphys/ipython-tikzmagic.git
