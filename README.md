@@ -1,4 +1,4 @@
 # binder-python
 mybinder repository for python calcs
 
-[binder](https://mybinder.org/v2/gh/drjrkuhn/binder-python.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drjrkuhn/binder-python.git/HEAD)
